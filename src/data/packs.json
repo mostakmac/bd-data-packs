@@ -1,0 +1,10 @@
+[
+  { "id": 1, "operator": "Grameenphone", "name": "Sample 3D", "dataGB": 2, "validityDays": 3, "price": 49 },
+  { "id": 2, "operator": "Grameenphone", "name": "Sample 30D", "dataGB": 20, "validityDays": 30, "price": 499 },
+  { "id": 3, "operator": "Robi", "name": "Sample 7D", "dataGB": 5, "validityDays": 7, "price": 99 },
+  { "id": 4, "operator": "Robi", "name": "Sample 30D", "dataGB": 25, "validityDays": 30, "price": 449 },
+  { "id": 5, "operator": "Banglalink", "name": "Sample 15D", "dataGB": 12, "validityDays": 15, "price": 249 },
+  { "id": 6, "operator": "Banglalink", "name": "Sample 30D", "dataGB": 30, "validityDays": 30, "price": 499 },
+  { "id": 7, "operator": "Teletalk", "name": "Sample 7D", "dataGB": 6, "validityDays": 7, "price": 89 },
+  { "id": 8, "operator": "Teletalk", "name": "Sample 30D", "dataGB": 28, "validityDays": 30, "price": 399 }
+]
